@@ -4,5 +4,8 @@ echo "ALX"
 =======
  "ALX" 
  "ALX School" 
+<<<<<<< HEAD
+>>>>>>> update_script
+=======
 >>>>>>> update_script
  #!bin/bash 
